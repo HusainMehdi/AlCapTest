@@ -1,2 +1,2 @@
-# AlCapTest
-help plese
+# AlphaCapitalPrimary
+Primary prototype of AlphaCapital
